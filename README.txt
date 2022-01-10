@@ -1,0 +1,1 @@
+READMEThis will be called SapphireIt is an app, that will find the most interesting foodsBased on what I usually search on google as the first option,But also allow me to search for restaurants using Googles api
